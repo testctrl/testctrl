@@ -32,7 +32,7 @@ flowchart LR
 - [ ] **Design:** Model user interface mockups, API interfaces, and database schemas. 
 - [ ] **MVP:** Build a test management product with the core features.
 - [ ] **Iterate:** Develop more features prioritized for a v1 release.
-- [ ] **Release:** Release a stable verson 1.0.0!
+- [ ] **Release:** Release a stable version 1.0.0!
 
 ## Contributing
 Currently testctrl is not looking for contributions until version 1.0.0 is released. However, we are excited to hear your ideas and feature suggestions.
