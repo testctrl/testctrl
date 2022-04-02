@@ -19,7 +19,8 @@ The goal of testctrl is to offer all the features you need right out of the box:
 - Built-in quality KPIs and metrics, custom dashboarding
 - Role-based user access, OAuth and social login
 - Intuitive, engaging, predictable user interface
-- Continuously evolving via community-driven development
+- Easily deployed and self-managed, no strings attached
+- Continuously evolving features via community-driven development
 
 ## Roadmap
 ```mermaid
