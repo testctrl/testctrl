@@ -1,18 +1,19 @@
-# testctrl
+# TestCtrl
 > Testing made agile.
 
 ### Table of Contents
 - [Problem Statement](#problem-statement)
 - [Features](#features)
+- [Agile](#agile)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Problem Statement
-While there are many test management products available today, none are designed with Agile, DevOps, or Automation in mind. It requires significant time and effort to customize an existing solution to adopt the increasing needs of Agile and Automation. These tools are not only counter-productive, but also absurdly expensive. Testctrl aims to disrupt the market by providing the world's first *community-driven*, *enterprise-ready*, and *agile-based* solution.
+While there are many test management products available today, none are designed with Agile, DevOps, or Automation in mind. It requires significant time and effort to customize an existing solution to adopt the increasing needs of Agile and Automation. These tools are not only counter-productive, but also absurdly expensive. TestCtrl aims to disrupt the market by providing the world's first *community-driven*, *enterprise-ready*, and *agile-based* solution.
 
 ## Features
-The goal of testctrl is to offer all the features you need right out of the box:
+The goal of TestCtrl is to offer all the features you need right out of the box:
 - Highly collaborative environment for agile-based testing
 - Integrations for all popular test automation frameworks
 - Extensive test case configuration, templates
@@ -21,6 +22,9 @@ The goal of testctrl is to offer all the features you need right out of the box:
 - Intuitive, engaging, predictable user interface
 - Easily deployed and self-managed, no strings attached
 - Continuously evolving features via community-driven development
+
+## Agile Testing
+
 
 ## Roadmap
 ```mermaid
@@ -37,7 +41,7 @@ flowchart LR
 - [ ] **Release:** Release a stable version 1.0.0!
 
 ## Contributing
-Currently testctrl is not looking for contributions until version 1.0.0 is released. However, we are excited to hear your ideas and feature suggestions.
+Currently TestCtrl is not looking for contributions until v1 is released. However, we want to hear your ideas and feature suggestions.
 
 ## License
-While we want to provide an open-source product, we value a community centered around improving one codebase. Please do not fork this repository with the purpose of rebranding and redistributing it. See the license attached to this repository for more details.
+While we want to provide an open-source product, we value a community centered around improving one codebase. Please do not fork this repository with the intent of rebranding and redistributing it. See the license attached to this repository for more details.
