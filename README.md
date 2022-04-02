@@ -1,5 +1,7 @@
-# TestCtrl
-> Testing made agile.
+<p align="center">
+    <img src="https://i.ibb.co/N2DQXYx/testctrl-sq.png" />
+</p>
+<h3 align="center">Testing made agile.</h3>
 
 ### Table of Contents
 - [Problem Statement](#problem-statement)
