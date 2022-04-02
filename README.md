@@ -24,7 +24,7 @@ The goal of TestCtrl is to offer all the features you need right out of the box:
 - Continuously evolving features via community-driven development
 
 ## Agile
-Agile is baked into TestCtrl. Testing should be as collaborative as possible to provide an immediate feedback loop. TestCtrl lets you define teams, their agile preferences (scrum vs. kanban), and set an organization-wide schedule so that planning and performing tests is as agile as possible. To provide an agile foundation, TestCtrl adheres to the latest Scaled Agile Framework (SAFe 5.0^).
+Agile is baked into TestCtrl. Testing should be as collaborative as possible to provide an immediate feedback loop. TestCtrl lets you define teams, their agile preferences (scrum vs. kanban), and set an organization-wide schedule so that planning and performing tests is as agile as possible. To provide an agile foundation, TestCtrl adheres to the latest Scaled Agile Framework (SAFe 5.0)[^1].
 
 ## Roadmap
 ```mermaid
@@ -45,3 +45,5 @@ Currently TestCtrl is not looking for contributions until v1 is released. Howeve
 
 ## License
 While we want to provide an open-source product, we value a community centered around improving one codebase. Please do not fork this repository with the intent of rebranding and redistributing it. See the license attached to this repository for more details.
+
+[^1]: [Agile Testing at Scaled Agile Framework](https://www.scaledagileframework.com/agile-testing/)
