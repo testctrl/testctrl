@@ -9,7 +9,7 @@
 - [License](#license)
 
 ## Problem Statement
-While there are many test management products available today, none are designed with Agile, DevOps, or Automation in mind. It requires significant time and effort to customize an existing test management product to adopt the increasing needs of Agile and Automation. These products are not only counter-productive, but also cost an absurd amount per year. Testctrl aims to break into the market with the first ever open-source, enterprise-ready, and agile-first solution.
+While there are many test management products available today, none are designed with Agile, DevOps, or Automation in mind. It requires significant time and effort to customize an existing solution to adopt the increasing needs of Agile and Automation. These tools are not only counter-productive, but also absurdly expensive. Testctrl aims to disrupt the market by providing the world's first community-driven, enterprise-ready, and agile-based solution.
 
 ## Features
 The goal of testctrl is to offer all the features you need right out of the box:
