@@ -21,7 +21,13 @@ A list of proposed features for testctrl. This list is subject to change.
   - [ ] Dashboards - Manage dashboards, include a default one
 
 ## Roadmap
-**\[Define]** -> Design -> MVP -> Iterate -> Release
+```mermaid
+flowchart LR
+    Define-->Design
+    Design-->MVP
+    MVP-->Iterate
+    Iterate-->Release
+```
 - [x] Define
   - Write a problem statement to reflect the purpose of this project.
 - [ ] Design
