@@ -23,8 +23,8 @@ The goal of TestCtrl is to offer all the features you need right out of the box:
 - Easily deployed and self-managed, no strings attached
 - Continuously evolving features via community-driven development
 
-## Agile Testing
-
+## Agile
+Agile is baked into TestCtrl. Testing should be as collaborative as possible to provide an immediate feedback loop. TestCtrl lets you define teams, their agile preferences (scrum vs. kanban), and set an organization-wide schedule so that planning and performing tests is as agile as possible. To provide an agile foundation, TestCtrl adheres to the latest Scaled Agile Framework (SAFe 5.0^).
 
 ## Roadmap
 ```mermaid
