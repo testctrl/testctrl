@@ -1,7 +1,8 @@
-<p align="center">
-    <img src="https://i.ibb.co/N2DQXYx/testctrl-sq.png" />
-</p>
-<h3 align="center">Testing made agile.</h3>
+<div align="center">
+    <img alt="TestCtrl Logo" src="https://i.ibb.co/R3ZBXQH/beaker-4x.png" />
+    <h1>TestCtrl</h1>
+    <h3>Testing made agile.</h3>
+</div>
 
 ### Table of Contents
 - [Problem Statement](#problem-statement)
