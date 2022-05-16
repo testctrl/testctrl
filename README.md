@@ -8,6 +8,7 @@
 - [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Agile](#agile)
+- [Stack](#stack)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -28,6 +29,26 @@ The goal of TestCtrl is to offer all the features you need right out of the box:
 
 ## Agile
 Agile is baked into TestCtrl. Testing should be as collaborative as possible to provide an immediate feedback loop. TestCtrl lets you define teams, their agile preferences (scrum vs. kanban), and set an organization-wide schedule so that planning and performing tests is as agile as possible. To provide an agile foundation, TestCtrl adheres to the latest Scaled Agile Framework (SAFe 5.0)[^1].
+
+## Stack
+TestCtrl is being built with the fastest and most modern technologies available.
+- JS Framework: [Vue 3.0](https://vuejs.org/)
+  - Ecosystem: [Nuxt.js 3.0](https://v3.nuxtjs.org/)
+  - UI: [TailwindUI](https://tailwindui.com/)
+    - Components: [HeadlessUI](https://headlessui.dev/)
+    - Icon Pack: [Hero Icons](https://heroicons.com/)
+    - CSS Framework: [Tailwindcss](https://tailwindcss.com/)
+  - State Management: [Pinia](https://pinia.vuejs.org/)
+  - Bundler: [Vite](https://vitejs.dev/)
+  - Servers: [Nitro](https://github.com/unjs/nitro)
+- Database: [Postgres](https://www.postgresql.org/)
+  - Migration Tool: [Postgraphile](https://github.com/graphile/migrate)
+- API: [GraphQL](https://graphql.org/)
+  - Schema Generation: [Postgraphile](https://www.graphile.org/postgraphile/)
+- CI/CD: [GitHub Actions](https://github.com/features/actions)
+- Other:
+  - JS Tooling: [UnJS](https://unjs.io/)
+  - Job Worker: [Postgraphile](https://github.com/graphile/worker)
 
 ## Roadmap
 ```mermaid
